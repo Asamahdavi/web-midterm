@@ -24,7 +24,7 @@ export default function Blog() {
         </div>
     </section>
     <section className="container">
-        <div className=" item pl-16 grid content-center space-x-0
+        <div className=" item pl-8  grid content-center space-x-0
          justify-around items-center
           xl:grid-cols-4  sm:grid-cols-2  py-14 px-0">
         <BlogCards img={im1} title={"Invitation !"} prag={"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."}/>
