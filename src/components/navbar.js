@@ -30,7 +30,7 @@ function Navbar() {
 
       <ul className={active}>
         <li className="nav-item">
-            <NavLink exact activeClassName="active" to='/'>
+            <NavLink  activeclassname="active" to='/'>
                Home
             </NavLink>
       
@@ -38,19 +38,19 @@ function Navbar() {
 
         <li className="nav-item">
          
-             <NavLink exact activeClassName="active" to='/About'>
+             <NavLink  activeclassame="active" to='/About'>
                About
             </NavLink>
         </li>
         <li className="nav-item">
           
-             <NavLink exact activeClassName="active" to='/Blog'>
+             <NavLink  activeclassname="active" to='/Blog'>
                Blog
             </NavLink>
         </li>
         <li className="nav-item">
          
-             <NavLink exact activeClassName="active" to='/Contant'>
+             <NavLink  activeclassname="active" to='/Contant'>
                Contact
             </NavLink>
         </li>
